@@ -1,5 +1,5 @@
 # springsecurity-secureservice
-A Spring boot service protected bu OAuth
+##A Spring boot service protected bu OAuth
 
 It has an endpoint that is protected by OAuth.
 Authorization should be Bearer <Token>
